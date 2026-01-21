@@ -1,0 +1,11 @@
+{
+    "name": "fft-pitch",
+    "description": "Simple pitch detection using microphone",
+    "dependencies": {
+      "core": "*"
+    },
+    "files": [
+      "main.ts"
+    ]
+  }
+  
